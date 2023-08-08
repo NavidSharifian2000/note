@@ -1,0 +1,4 @@
+#Thu Jun 15 23:07:48 IRST 2023
+base.0=/home/navid/Desktop/notr/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
